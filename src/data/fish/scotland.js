@@ -57,7 +57,7 @@ export const scotlandFish = [
             { rods: [0,1,2,3,4,5] },
             { moment: [0, 1] }
         ],
-        difficulty: 0,
+        difficulty: 1,
         seasons: [
             true,
             true,
@@ -192,7 +192,7 @@ export const scotlandFish = [
             { rods: [0,1,2,3,4,5] },
             { moment: [1] }
         ],
-        difficulty: 0,
+        difficulty: 1,
         seasons: [
             true,
             true,
@@ -282,7 +282,7 @@ export const scotlandFish = [
             { rods: [0,1,2,3,4,5] },
             { moment: [1] }
         ],
-        difficulty: 0,
+        difficulty: 1,
         seasons: [
             false,
             false,
@@ -331,7 +331,7 @@ export const scotlandFish = [
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
-        difficulty: 0,
+        difficulty: 1,
         seasons: [
             false,
             false,
@@ -470,7 +470,7 @@ export const scotlandFish = [
             { rods: [0,1,2,3,4,5] },
             { moment: [0, 1] }
         ],
-        difficulty: 0,
+        difficulty: 1,
         seasons: [
             true,
             true,
@@ -924,7 +924,7 @@ export const scotlandFish = [
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
-        difficulty: 0,
+        difficulty: 2,
         seasons: [
             false,
             false,
