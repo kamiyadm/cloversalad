@@ -1112,17 +1112,17 @@ export const crFish = [
             { moment: [1] }
         ],
         seasons: [
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
             true
         ],
         kgs: {

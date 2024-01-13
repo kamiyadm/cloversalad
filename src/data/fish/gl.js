@@ -66,7 +66,7 @@ export const glFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -166,16 +166,16 @@ export const glFish = [
         ],
         seasons: [
             true,
+            false,
+            true,
+            true,
             true,
             true,
             true,
             false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
+            false,
             true
         ],
         kgs: {
@@ -330,11 +330,11 @@ export const glFish = [
             true,
             true,
             true,
+            false,
             true,
-            false,
-            false,
-            false,
-            false,
+            true,
+            true,
+            true,
             false
         ],
         kgs: {
@@ -421,7 +421,7 @@ export const glFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -478,9 +478,9 @@ export const glFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0,1] }
         ],
         seasons: [
             false,
@@ -528,18 +528,18 @@ export const glFish = [
             { moment: [1] }
         ],
         seasons: [
-            true,
-            true,
-            true,
-            true,
-            false,
-            false,
             false,
             false,
             false,
             true,
             true,
-            true
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false
         ],
         kgs: {
             min: 1,
@@ -629,14 +629,14 @@ export const glFish = [
             true,
             true,
             true,
+            true,
             false,
             false,
             false,
             false,
             false,
             false,
-            false,
-            false,
+            true,
             true
         ],
         kgs: {
@@ -666,7 +666,7 @@ export const glFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [3] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -818,9 +818,9 @@ export const glFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [3] },
             { rods: [1,2,3,5] },
-            { moment: [1] }
+            { moment: [0,1] }
         ],
         seasons: [
             false,
@@ -975,9 +975,9 @@ export const glFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [1,2,3,5] },
-            { moment: [0] }
+            { moment: [0,1] }
         ],
         seasons: [
             true,
@@ -1071,7 +1071,7 @@ export const glFish = [
         attributes: [
             { shadow: [2] },
             { rods: [2,3,5] },
-            { moment: [1] }
+            { moment: [0,1] }
         ],
         seasons: [
             true,
@@ -1114,7 +1114,7 @@ export const glFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [0,1] },
+            { shadow: [] },
             { rods: [2,3,5] },
             { moment: [0] }
         ],
@@ -1211,15 +1211,15 @@ export const glFish = [
         seasons: [
             true,
             true,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
             true,
-            false,
+            true,
+            true,
+            true,
+            true,
+            true,
             true
         ],
         kgs: {

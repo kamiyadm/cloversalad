@@ -1064,7 +1064,7 @@ export const scotlandFish = [
         map: "scotland",
         positions: [
             {
-                x: 85,
+                x: 83,
                 y: 45
             }
         ],
@@ -1218,7 +1218,7 @@ export const scotlandFish = [
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
-        difficulty: 0,
+        difficulty: 2,
         seasons: [
             true,
             true,

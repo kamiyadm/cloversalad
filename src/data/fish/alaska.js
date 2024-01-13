@@ -340,7 +340,7 @@ export const alaskaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [2] },
+            { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -371,6 +371,10 @@ export const alaskaFish = [
             {
                 x: 45,
                 y: 85
+            },
+            {
+                x: 40,
+                y: 20
             },
             {
                 x: 65,
@@ -1409,17 +1413,17 @@ export const alaskaFish = [
         ],
         seasons: [
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         kgs: {
             min: 200,

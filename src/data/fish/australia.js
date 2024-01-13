@@ -38,12 +38,12 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
                 x:85,
-                y:47
+                y:50
             },
             {
                 x:70,
@@ -92,11 +92,11 @@ export const australiaFish = [
         positions: [
             {
                 x:15,
-                y:45
+                y:40
             },
             {
-                x:95,
-                y:30
+                x:90,
+                y:45
             }
         ],
         positionNote: ""
@@ -111,7 +111,7 @@ export const australiaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -140,8 +140,8 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:85,
-                y:47
+                x:83,
+                y:50
             }
         ],
         positionNote: " "
@@ -156,7 +156,7 @@ export const australiaFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [1,2,3,5] },
             { moment: [1] }
         ],
@@ -185,8 +185,12 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
+            },
+            {
+                x:43,
+                y:90
             }
 
         ],
@@ -201,7 +205,7 @@ export const australiaFish = [
             pt: "tubarão tapete"
         },
         attributes: [
-            { shadow: [2,3,4] },
+            { shadow: [3,4] },
             { rods: [0,1,2,3,4,5] },
             { moment: [1] }
         ],
@@ -334,7 +338,7 @@ export const australiaFish = [
         positions: [
             {
                 x:15,
-                y:45
+                y:40
             },
             {
                 x:50,
@@ -342,7 +346,7 @@ export const australiaFish = [
             },
             {
                 x:60,
-                y:95
+                y:90
             }
         ],
         positionNote: ""
@@ -357,7 +361,7 @@ export const australiaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -387,11 +391,11 @@ export const australiaFish = [
         positions: [
             {
                 x:42,
-                y:94
+                y:90
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
                 x:60,
@@ -444,9 +448,12 @@ export const australiaFish = [
                 y:30
             },
             {
-                x: 25,
-                y: 55
-            
+                x: 28,
+                y: 45
+            },
+            {
+                x: 60,
+                y: 90
             }
         ],
         positionNote: " .<br>(Steve required 90kgs of it for the main quest)"
@@ -491,7 +498,7 @@ export const australiaFish = [
         positions: [
             {
                 x: 30,
-                y: 65
+                y: 60
             }
 
         ],
@@ -537,7 +544,7 @@ export const australiaFish = [
         positions: [
             {
                 x:35,
-                y:40
+                y:50
             },
             {
                 x:50,
@@ -587,6 +594,10 @@ export const australiaFish = [
             {
                 x:50,
                 y:30
+            },
+            {
+                x:30,
+                y:40
             }
         ],
         positionNote: ""
@@ -630,16 +641,16 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
                 x:30,
-                y:65
+                y:60
             },
             {
-                x:10,
-                y:45
+                x:12,
+                y:40
             }
 
         ],
@@ -655,7 +666,7 @@ export const australiaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [3,4] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -685,7 +696,7 @@ export const australiaFish = [
         positions: [
             {
                 x:30,
-                y:65
+                y:60
             },
             {
                 x:55,
@@ -734,15 +745,15 @@ export const australiaFish = [
         positions: [
             {
                 x:15,
-                y:45
+                y:40
             },
             {
                 x:42,
-                y:94
+                y:90
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
                 x:70,
@@ -791,11 +802,15 @@ export const australiaFish = [
         positions: [
             {
                 x:15,
-                y:45
+                y:40
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
+            },
+            {
+                x:85,
+                y:50
             }
 
         ],
@@ -812,7 +827,7 @@ export const australiaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [1] }
         ],
@@ -936,21 +951,16 @@ export const australiaFish = [
             },
             {
                 x:42,
-                y:94
+                y:90
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
-                x:85,
-                y:47
+                x:83,
+                y:50
             },
-            {
-                x:5,
-                y:95
-            }
-            
         ],
         positionNote: ""
     },
@@ -993,8 +1003,8 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:95,
-                y:30
+                x:90,
+                y:45
             }
         ],
         positionNote: ""
@@ -1038,8 +1048,8 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
                 x: 30,
@@ -1063,7 +1073,7 @@ export const australiaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -1096,12 +1106,12 @@ export const australiaFish = [
                 y:45
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             },
             {
                 x:85,
-                y:47
+                y:50
             },
             {
                 x:70,
@@ -1176,7 +1186,7 @@ export const australiaFish = [
             pt: "oreo dory"
         },
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
@@ -1207,11 +1217,11 @@ export const australiaFish = [
         positions: [
             {
                 x:42,
-                y:94
+                y:90
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             }
         ],
         positionNote: ""
@@ -1226,7 +1236,7 @@ export const australiaFish = [
         },
         difficulty: 2,
         attributes: [
-            { shadow: [3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
@@ -1256,11 +1266,11 @@ export const australiaFish = [
         positions: [
             {
                 x:42,
-                y:94
+                y:90
             },
             {
-                x:5,
-                y:95
+                x:15,
+                y:90
             }
         ],
         positionNote: ""
@@ -1274,7 +1284,7 @@ export const australiaFish = [
             pt: "peixe mão malhado"
         },
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [1,2,3,5] },
             { moment: [1] }
         ],
@@ -1304,7 +1314,7 @@ export const australiaFish = [
         positions: [
             {
                 x:85,
-                y:45
+                y:50
             }
         ],
         positionNote: ""
@@ -1318,7 +1328,7 @@ export const australiaFish = [
             pt: "xaréu gigante"
         },
         attributes: [
-            { shadow: [3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
@@ -1348,7 +1358,11 @@ export const australiaFish = [
         positions: [
             {
                 x:15,
-                y:45
+                y:40
+            },
+            {
+                x:85,
+                y:40
             }
 
         ],
@@ -1364,7 +1378,7 @@ export const australiaFish = [
         },
         difficulty:2,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [1] }
         ],
@@ -1394,7 +1408,11 @@ export const australiaFish = [
         positions: [
             {
                 x: 40,
-                y: 95
+                y: 90
+            },
+            {
+                x: 13,
+                y: 70
             }
         ],
         positionNote: ""
@@ -1408,7 +1426,7 @@ export const australiaFish = [
             pt: "arraia"
         },
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
@@ -1439,7 +1457,7 @@ export const australiaFish = [
         positions: [
             {
                 x: 30,
-                y: 65
+                y: 55
             }
         ],
         positionNote: ""
@@ -1452,6 +1470,7 @@ export const australiaFish = [
             fr: "môle",
             pt: "peixe lua"
         },
+        difficulty: 2,
         attributes: [
             { shadow: [] },
             { rods: [2,3,5] },
@@ -1482,10 +1501,67 @@ export const australiaFish = [
         map: "australia",
         positions: [
             {
-                x:95,
+                x:87,
                 y:65
             }
         ],
         positionNote: "Not sure if it has a shadow or not. Please confirm if you want to <3"
+    },
+    {
+        id: "430",
+        type: "monster",
+        name: {
+            en: "Bunyip",
+            fr: "Bunyip",
+            pt: "Bunyip"
+        },
+        difficulty:2,
+        attributes: [
+            { shadow: [] },
+            { rods: [2,3,5] },
+            { moment: [0] }
+        ],
+        seasons: [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        kgs: {
+            min: 75,
+            max: 200
+        },
+        lbs: {
+            min: 165.35,
+            max: 440.92
+        },
+        map: "australia",
+        positions: [
+            {
+                x:50,
+                y:60
+            },
+            {
+                x:40,
+                y:70
+            },
+            {
+                x:50,
+                y:80
+            },
+            {
+                x:85,
+                y:60
+            }
+        ],
+        positionNote: "MONSTER<br>Spot rotation: it changes every day.<br>Try monster baits to find the bubbles, then cast and wait into the bubbles.<br>If you don't have any monster baits, try cast and reel and wait (and be patient)."
     }
 ]
