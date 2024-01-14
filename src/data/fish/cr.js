@@ -9,7 +9,7 @@ export const crFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -58,7 +58,7 @@ export const crFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -107,7 +107,7 @@ export const crFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -205,7 +205,7 @@ export const crFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [3] },
             { rods: [1,2,3,5] },
             { moment: [1] }
         ],
@@ -254,7 +254,7 @@ export const crFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -458,7 +458,7 @@ export const crFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [3] },
             { rods: [1,2,3,5] },
             { moment: [1] }
         ],
@@ -515,7 +515,7 @@ export const crFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -568,7 +568,7 @@ export const crFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [1] }
         ],
@@ -825,7 +825,7 @@ export const crFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [1] }
         ],

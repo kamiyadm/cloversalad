@@ -1124,7 +1124,7 @@ export const scotlandFish = [
             pt: "unkonw"
         },
         attributes: [
-            { shadow: [] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0] }
         ],
@@ -1246,6 +1246,10 @@ export const scotlandFish = [
             {
                 x: 57,
                 y: 15
+            },
+            {
+                x: 15,
+                y: 63
             }
         ],
         positionNote: ""

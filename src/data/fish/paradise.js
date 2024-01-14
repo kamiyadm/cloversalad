@@ -8,7 +8,7 @@ export const paradiseFish = [
             pt: "anchova"
         },
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0, 1] }
         ],
@@ -99,7 +99,7 @@ export const paradiseFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -157,7 +157,7 @@ export const paradiseFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0, 1] }
         ],
@@ -190,7 +190,7 @@ export const paradiseFish = [
                 y: 50
             }
         ],
-        shadow: [1,2],
+        shadow: [2],
         rods: [0, 1, 2, 3, 4, 5],
         positionNote: ""
     },
@@ -205,7 +205,7 @@ export const paradiseFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0, 1] }
         ],
@@ -238,8 +238,8 @@ export const paradiseFish = [
                 y: 75
             },
             {
-                x: 75,
-                y: 50
+                x: 70,
+                y: 30
             }
         ],
         positionNote: ""
@@ -315,7 +315,7 @@ export const paradiseFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -407,7 +407,7 @@ export const paradiseFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [3,4] },
+            { shadow: [2] },
             { rods: [1,2,3,5] },
             { moment: [0] }
         ],
@@ -507,6 +507,10 @@ export const paradiseFish = [
             {
                 x: 50,
                 y: 25
+            },
+            {
+                x: 88,
+                y: 88
             }
         ],
         positionNote: ""
@@ -521,7 +525,7 @@ export const paradiseFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [3] },
+            { shadow: [2] },
             { rods: [1,2,3,5] },
             { moment: [0,1] }
         ],
@@ -560,6 +564,10 @@ export const paradiseFish = [
             {
                 x: 90,
                 y: 15
+            },
+            {
+                x: 88,
+                y: 88
             }
         ],
         shadow: [3],
@@ -614,8 +622,12 @@ export const paradiseFish = [
                 y: 10
             },
             {
-                x:20,
-                y:15
+                x: 20,
+                y: 15
+            },
+            {
+                x: 88,
+                y: 88
             }
         ],
         positionNote: ""

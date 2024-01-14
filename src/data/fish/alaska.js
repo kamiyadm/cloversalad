@@ -41,6 +41,14 @@ export const alaskaFish = [
             {
                 x: 30,
                 y: 85
+            },
+            {
+                x: 33,
+                y: 33
+            },
+            {
+                x: 30,
+                y: 75
             }
         ],
         positionNote: ""
@@ -55,7 +63,7 @@ export const alaskaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [3] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -226,7 +234,7 @@ export const alaskaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] }
         ],
@@ -283,7 +291,7 @@ export const alaskaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] }
         ],
@@ -558,6 +566,10 @@ export const alaskaFish = [
             {
                 x: 80,
                 y: 40
+            },
+            {
+                x: 48,
+                y: 46
             }
         ],
         positionNote: ""
@@ -957,6 +969,10 @@ export const alaskaFish = [
             {
                 x: 40,
                 y: 20
+            },
+            {
+                x: 48,
+                y: 46
             }
         ],
         positionNote: ""
@@ -1006,6 +1022,14 @@ export const alaskaFish = [
             {
                 x: 30,
                 y: 55
+            },
+            {
+                x: 35,
+                y: 35
+            },
+            {
+                x: 75,
+                y: 15
             }
         ],
         positionNote: ""
@@ -1020,7 +1044,7 @@ export const alaskaFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0] }
         ],
@@ -1063,6 +1087,10 @@ export const alaskaFish = [
             {
                 x: 75,
                 y: 15
+            },
+            {
+                x: 40,
+                y: 65
             }
         ],
         positionNote: ""
@@ -1077,7 +1105,7 @@ export const alaskaFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
@@ -1118,7 +1146,7 @@ export const alaskaFish = [
                 y: 50
             },
             {
-                x: 75,
+                x: 43,
                 y: 15
             },
             {
@@ -1150,7 +1178,7 @@ export const alaskaFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [1] }
         ],
@@ -1203,7 +1231,7 @@ export const alaskaFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [2,3,5] },
             { moment: [0] }
         ],
@@ -1235,10 +1263,6 @@ export const alaskaFish = [
                 x: 65,
                 y: 40
             },
-            {
-                x: 50,
-                y: 75
-            }
         ],
         positionNote: ""
     },
@@ -1285,11 +1309,7 @@ export const alaskaFish = [
                 y: 40
             },
             {
-                x: 50,
-                y: 75
-            },
-            {
-                x: 55,
+                x: 38,
                 y: 15
             }
         ],
@@ -1334,7 +1354,7 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 85,
+                x: 65,
                 y: 40
             },
             {
@@ -1346,7 +1366,7 @@ export const alaskaFish = [
                 y: 85
             },
             {
-                x: 80,
+                x: 70,
                 y: 15
             }
         ],
@@ -1391,8 +1411,12 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 85,
+                x: 70,
                 y: 15
+            },
+            {
+                x: 78,
+                y: 88
             }
         ],
         positionNote: "Very difficult to find. Be patient."
