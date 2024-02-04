@@ -582,7 +582,7 @@ export const alaskaFish = [
             fr: "charbonnier",
             pt: "peixe-carvão de pacifico"
         },
-        difficulty: 0,
+        difficulty: 1,
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },

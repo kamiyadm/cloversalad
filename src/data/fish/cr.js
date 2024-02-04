@@ -733,7 +733,7 @@ export const crFish = [
             fr: "makaire bleu",
             pt: "marlim azul"
         },
-        difficulty: 2,
+        difficulty: 1,
         attributes: [
             { shadow: [3] },
             { rods: [2,3,5] },
@@ -872,7 +872,7 @@ export const crFish = [
             fr: "makaire noir",
             pt: "marlim preto"
         },
-        difficulty: 2,
+        difficulty: 1,
         attributes: [
             { shadow: [3] },
             { rods: [2,3,5] },

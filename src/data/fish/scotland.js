@@ -596,6 +596,10 @@ export const scotlandFish = [
             {
                 x: 40,
                 y: 10
+            },
+            {
+                x: 87,
+                y: 23
             }
         ],
         positionNote: ""
@@ -844,7 +848,7 @@ export const scotlandFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0, 1] }
+            { moment: [1] }
         ],
         difficulty: 0,
         seasons: [
@@ -1250,6 +1254,18 @@ export const scotlandFish = [
             {
                 x: 15,
                 y: 63
+            },
+            {
+                x: 66,
+                y: 17
+            },
+            {
+                x: 33,
+                y: 17
+            },
+            {
+                x: 15,
+                y: 53
             }
         ],
         positionNote: ""

@@ -664,7 +664,7 @@ export const glFish = [
             fr: "barbue de rivière",
             pt: "bagre-americano"
         },
-        difficulty: 0,
+        difficulty: 1,
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
